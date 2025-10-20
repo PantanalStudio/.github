@@ -1,8 +1,6 @@
 
 ![Pantanal Studio Banner](https://i.imgur.com/kvmtFte.jpeg)
 
-# 🐆 Pantanal Studio
-
 Bem-vindo ao repositório oficial da **Pantanal Studio** — uma **software house internacional** nascida da união entre amigos desenvolvedores apaixonados por tecnologia, inovação e propósito.
 
 Inspirados pela força e agilidade da **onça-pintada**, símbolo do nosso bioma Pantanal, desenvolvemos soluções digitais que unem **criatividade, desempenho e impacto global**.

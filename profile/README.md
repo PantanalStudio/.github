@@ -1,3 +1,6 @@
+
+![Pantanal Studio Banner](https://i.imgur.com/kvmtFte.jpeg)
+
 # 🐆 Pantanal Studio
 
 Bem-vindo ao repositório oficial da **Pantanal Studio** — uma **software house internacional** nascida da união entre amigos desenvolvedores apaixonados por tecnologia, inovação e propósito.
@@ -67,5 +70,3 @@ Estamos construindo o futuro do software com **código, propósito e paixão**.
 > “Assim como o Pantanal se renova em cada estação, nós também nos reinventamos a cada linha de código.”
 
 **Pantanal Studio** — Código que nasce da natureza, cresce com propósito e alcança o mundo.
-
-![Pantanal Studio Banner](https://i.imgur.com/gayoMCD.jpeg)
